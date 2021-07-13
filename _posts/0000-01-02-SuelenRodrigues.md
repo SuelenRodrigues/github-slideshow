@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
 
+**Suelen Rodrigues** is learning how to use _**GitHub**_ by taking the introductory course :computer: :computer:
+Use the left arrow to go back!
